@@ -1,0 +1,25 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Asep",
+            "city": "Jakarta"
+        },
+        {
+            "id": 2,
+            "name": "Bambang",
+            "city": "Sumedang"
+        },
+        {
+            "id": 3,
+            "name": "Tigor",
+            "city": "Medan"
+        }
+    ],
+    "posts": [
+        {
+            "id": 1,
+            "title": "Sangkakala"
+        }
+    ]
+}
